@@ -1,0 +1,9 @@
+/results/
+/.pytest_cache/
+venv/*
+*.pyc
+*.spec
+*.log
+.idea/
+*.iml
+*.iws
